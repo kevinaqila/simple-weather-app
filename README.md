@@ -2,7 +2,7 @@
 
 A clean, modern, and interactive weather forecast application built with React. This project fetches real-time data from the OpenWeatherMap API to provide current weather conditions, as well as hourly and daily forecasts for any city worldwide.
 
-![Weather App Screenshot](.src/assets/screenshot-display.png) 
+![Weather App Screenshot](src/assets/screenshot-display.png) 
 *Note: Replace the URL above with a link to your own screenshot.*
 
 ---
