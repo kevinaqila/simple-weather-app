@@ -47,12 +47,12 @@ Make sure you have Node.js and npm installed on your machine.
 
 2.  Clone the repo
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/kevinaqila/simple-weather-app.git
     ```
 
 3.  Navigate to the project directory
     ```sh
-    cd your-repo-name
+    cd simple-weather-app
     ```
 
 4.  Install NPM packages
