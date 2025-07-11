@@ -6,10 +6,13 @@ A clean, modern, and interactive weather forecast application built with React. 
 *Note: Replace the URL above with a link to your own screenshot.*
 
 ---
+
 ### ✨ Live Demo
 
 You can try out the live calculator here:
-**simple-live-weather.netlify.app**
+**[simple-live-weather.netlify.app](https://simple-live-weather.netlify.app/)**
+
+---
 
 ## ✨ Features
 
