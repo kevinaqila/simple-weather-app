@@ -73,7 +73,3 @@ Make sure you have Node.js and npm installed on your machine.
 Now, open [http://localhost:5173](http://localhost:5173) (or whatever port is shown in your terminal) in your browser to see the app.
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
